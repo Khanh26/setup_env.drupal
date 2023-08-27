@@ -69,3 +69,4 @@ setup_ubuntu
 setup_php
 setup_composer
 setup_composer_packages
+setup_lando
